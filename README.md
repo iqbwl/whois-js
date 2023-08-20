@@ -26,5 +26,8 @@ Access whois via browser `https://localhost:3000`.
 pm2 list
 ```
 ```
+pm2 stop <app_name>
+```
+```
 pm2 delete <app_name>
 ```
