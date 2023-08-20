@@ -18,6 +18,8 @@ npm install -g pm2
 pm2 start server.js
 ```
 
+Access whois via browser `https://localhost:3000`.
+
 ### PM2
 
 ```
